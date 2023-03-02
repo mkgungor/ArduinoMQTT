@@ -3,8 +3,8 @@
 using namespace std;
 
 // WiFi credentials
-const char * SSID =  "ChamplainPSK";
-const char * PASSWORD = "letusdare";
+const char * SSID =  "WifiName";
+const char * PASSWORD = "WifiPass";
 
 // MQTT settings
 const string ID = "Murat"; //Putt something different
